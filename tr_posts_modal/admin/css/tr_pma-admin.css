@@ -1,0 +1,10 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .select2-container{
+    max-width: 600px;
+    width: 100% !important;
+    margin-top: 10px;
+ }
